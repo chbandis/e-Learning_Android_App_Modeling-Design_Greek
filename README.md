@@ -1,2 +1,2 @@
-# e-Learning_Android_App_Modeling-Design_Greek
+# e-Learning Android App Modeling and Design (Greek)
 Computer Science (BSc) Project
